@@ -1,0 +1,37 @@
+*{
+    font-family: 'Epilogue', sans-serif;
+}
+
+body{
+    background-color: #fafafa;
+}
+
+.left-content h1{
+    font-weight: 700;
+    font-size: 90px;
+    color: #141414;
+}
+
+.left-content p{
+    font-weight: 500;
+    color: #696969;
+}
+
+.btn-custom{
+    color: #fff;
+    background-color: #141414;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.btn-custom:hover{
+    background-color: #fff;
+    color: #141414;
+    border: 1px solid #141414;
+}
+
+#section-2{
+    height: 100vh;
+    margin-top: 100px;
+}
